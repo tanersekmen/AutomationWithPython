@@ -1,5 +1,3 @@
-
-google-chrome=89.0.4389.90 
+chromedriver=89.0.4389.90 
 selenium=3.141.0
 time=1.0.0
-
